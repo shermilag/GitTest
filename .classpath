@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/jintellitype-1.3.6/jintellitype-1.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/jxgrabkey/lib/JXGrabKey.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/forms-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/jython-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/mac_widgets.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/mockito-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/sikuli-redo.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/swing-layout-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-develop/lib/swingx-core-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Sikuli/sikuli-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/Downloads/htmlunit-driver-2.32.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/raghu/.m2/repository/org/sikuli/sikuli-api/1.1.0/sikuli-api-1.1.0.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.sikuli"/>
+			<attribute name="maven.artifactId" value="sikuli-api"/>
+			<attribute name="maven.version" value="1.1.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
